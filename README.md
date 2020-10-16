@@ -36,7 +36,7 @@ ACM Conference on Multimedia (ACM MM), 2020
 * **Change the variable `dataset_dir` in configuration file `./torchFewShot/datasets/tieredImageNet.py` to the correct path to tieredImageNet.**
 * **Change the variable `file` in `save_base_proto.py.py` to the correct path to the train set file of miniImageNet.**
   
-If you want to test our trained models, please go straight to steps 4.
+
 
 ### 2. Train Models
 train baseline++ on miniImageNet for 5-shot
@@ -164,7 +164,7 @@ ACM Conference on Multimedia (ACM MM), 2020
 * **改变文件 `./torchFewShot/datasets/tieredImageNet.py` 中的变量 `dataset_dir`，指向tieredImageNet。**
 * **改变文件 `save_base_proto.py.py` 中的变量 `file`，指向miniImageNet的训练集的pickle文件。**
   
-如果你想直接测试不同方法的准确率，请直接跳转到[步骤4](#4.-测试不同的方法)。
+
 
 ### 2. 训练模型
 train baseline++ on miniImageNet for 5-shot
